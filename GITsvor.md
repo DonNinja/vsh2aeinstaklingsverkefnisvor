@@ -11,3 +11,6 @@
 *	git status: Skrifar öll files sem á eftir að leggja inn, sem eru ný eða búið að breyta.
 *	git diff: Sýnir allar breytingar á file sem á eftir að leggja inn.
 *	git checkout: Switch-ar í það branch sem er skrifað á eftir og update-ar directory-ið sem er að vinna með.
+
+##3. Hver er munurinn á eftirfarandi git skipunum?
+Git diff sýnir file breytingar sem er ekki búið að stage-a, git diff --staged sýnir muninn á því file sem er búið að stage-a fyrir og eftir að það var stage-að og git diff commit1 commit2 sýnir muninn á 1 og 2.
