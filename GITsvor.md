@@ -20,3 +20,6 @@ Version control er prógramm sem hjálpar liði að fylgjast með breytingunum �
 
 ##5. Hverjir eru helstu kostir við að nota GIT?
 Það er létt og notalegt að nota það þegar maður lærir á það og maður getur líka séð öll eldri versions af projects þegar maður vill.
+
+##6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+Mér finnst að maður ætti að gera commit hvert sinn sem maður lagar eitthvað stærra vandamál eða gerir breytingar við file, því að maður vill að einhver þurfi ekki að leita í gegnum kóðann ef hann vill finna hvað þú gerðir þegar þú settir það aftur inn. Megnið á commits fer allt eftir hvað er unnið að og hversu stórt það er.
