@@ -14,3 +14,6 @@
 
 ##3. Hver er munurinn á eftirfarandi git skipunum?
 Git diff sýnir file breytingar sem er ekki búið að stage-a, git diff --staged sýnir muninn á því file sem er búið að stage-a fyrir og eftir að það var stage-að og git diff commit1 commit2 sýnir muninn á 1 og 2.
+
+##4. Hvað er útgáfustýring (e.version control)?
+Version control er prógramm sem hjálpar liði að fylgjast með breytingunum á source code yfir einhvern tíma og GIT er notað því að það er frítt og opið source sem er létt að nota.
