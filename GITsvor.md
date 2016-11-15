@@ -23,3 +23,6 @@ Version control er prógramm sem hjálpar liði að fylgjast með breytingunum �
 
 ##6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 Mér finnst að maður ætti að gera commit hvert sinn sem maður lagar eitthvað stærra vandamál eða gerir breytingar við file, því að maður vill að einhver þurfi ekki að leita í gegnum kóðann ef hann vill finna hvað þú gerðir þegar þú settir það aftur inn. Megnið á commits fer allt eftir hvað er unnið að og hversu stórt það er.
+
+##7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Working directory er það directory sem heldur source code-inum undir stjórn GIT það er eftir að maður er búinn að commit-a það, staging area er það þegar maður er búinn að breyta kóðanum en áður en maður er búinn að commit-a það inn á GIT og repository er það sem að kóðinn er geymdur í eftir að maður er búinn að setja hann inn á GIT.
