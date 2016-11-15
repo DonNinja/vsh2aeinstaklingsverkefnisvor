@@ -17,3 +17,6 @@ Git diff sýnir file breytingar sem er ekki búið að stage-a, git diff --stage
 
 ##4. Hvað er útgáfustýring (e.version control)?
 Version control er prógramm sem hjálpar liði að fylgjast með breytingunum á source code yfir einhvern tíma og GIT er notað því að það er frítt og opið source sem er létt að nota.
+
+##5. Hverjir eru helstu kostir við að nota GIT?
+Það er létt og notalegt að nota það þegar maður lærir á það og maður getur líka séð öll eldri versions af projects þegar maður vill.
