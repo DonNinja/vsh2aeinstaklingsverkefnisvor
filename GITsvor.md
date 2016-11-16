@@ -32,4 +32,4 @@ Working directory er það directory sem heldur source code-inum undir stjórn G
 ##8. Hvenær er sniðugt að nota greinar (branches)? 
 Þegar maður vill prófa eitthvað, en ekki missa gamla kóðann sem maður var þegar með.
 
-Yngvi Leó Þráinsson
+##Yngvi Leó Þráinsson
