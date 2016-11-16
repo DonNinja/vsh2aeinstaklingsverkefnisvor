@@ -1,3 +1,5 @@
+
+
 ##1. Hvað gera eftirfarandi Linux skipanir?
 *	cd: Setur mann í main directory ef maður setur ekkert á eftir, annars setur það mann í það directory sem maður velur.
 *	cd ~ : Setur mann í sitt eigið home directory ef maður skrifar ekkert annað, annars getur það sett mann í home directory-ið hjá einhverjum öðrum eftir því hvaða user á tölvunni maður velur.
@@ -29,3 +31,5 @@ Working directory er það directory sem heldur source code-inum undir stjórn G
 
 ##8. Hvenær er sniðugt að nota greinar (branches)? 
 Þegar maður vill prófa eitthvað, en ekki missa gamla kóðann sem maður var þegar með.
+
+Yngvi Leó Þráinsson
